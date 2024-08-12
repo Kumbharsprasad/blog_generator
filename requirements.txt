@@ -11,3 +11,4 @@ pypdf
 google-cloud-aiplatform>=1.38
 streamlit-extras
 streamlit-chat
+langchain-openai
